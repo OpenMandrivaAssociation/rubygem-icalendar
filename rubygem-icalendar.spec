@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.1.5
-Release:    %mkrel 1
+Release:    2
 Summary:    This is a Ruby library for dealing with iCalendar files
 Group:      Development/Ruby
 License:    GPLv2+
