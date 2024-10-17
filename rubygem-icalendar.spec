@@ -6,7 +6,7 @@ Release:    2
 Summary:    This is a Ruby library for dealing with iCalendar files
 Group:      Development/Ruby
 License:    GPLv2+
-URL:        http://github.com/sdague/icalendar
+URL:        https://github.com/sdague/icalendar
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
